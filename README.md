@@ -13,3 +13,5 @@
 ## Run
 gcc main.c -o ttt
 ./ttt
+
+## Author
