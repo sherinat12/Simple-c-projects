@@ -15,3 +15,4 @@ gcc main.c -o ttt
 ./ttt
 
 ## Author
+Rsja Sherina T
