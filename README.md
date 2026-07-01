@@ -6,7 +6,7 @@
 - Input validation
   
 ## Concepts
-- Arrays 
+- Arrays  
 - Functions
 - Conditional logic
   
