@@ -8,7 +8,7 @@
 ## Concepts
 - Arrays   
 - Functions
-- Conditional logic
+- Conditional logic 
    
 ## Run
 gcc main.c -o ttt
