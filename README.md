@@ -9,7 +9,7 @@
 - Arrays 
 - Functions
 - Conditional logic
-
+ 
 ## Run
 gcc main.c -o ttt
 ./ttt
