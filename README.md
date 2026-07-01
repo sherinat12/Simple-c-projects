@@ -4,7 +4,7 @@
 - 2-player game
 - Win and draw detection
 - Input validation
-  
+   
 ## Concepts
 - Arrays  
 - Functions
