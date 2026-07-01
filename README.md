@@ -10,7 +10,7 @@
 - Functions
 - Conditional logic
   
-## Run 
+## Run  
 gcc main.c -o ttt
 ./ttt
 
