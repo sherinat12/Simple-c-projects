@@ -3,7 +3,7 @@
 ## Features
 - 2-player game
 - Win and draw detection  
-- Input validation  
+- Input validation 
     
 ## Concepts
 - Arrays
