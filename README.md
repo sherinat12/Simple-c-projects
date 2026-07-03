@@ -7,7 +7,7 @@
     
 ## Concepts
 - Arrays
-- Functions
+- Functions 
 - Conditional logic 
    
 ## Run
