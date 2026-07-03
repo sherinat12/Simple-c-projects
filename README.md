@@ -2,7 +2,7 @@
 
 ## Features
 - 2-player game
-- Win and draw detection 
+- Win and draw detection  
 - Input validation  
    
 ## Concepts
