@@ -11,7 +11,7 @@
 - Conditional logic 
   
 ## Run
-gcc main.c -o ttt
+gcc main.c -o ttt 
 ./ttt
  
 ## Author
