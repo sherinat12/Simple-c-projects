@@ -14,6 +14,6 @@
 gcc main.c -o ttt 
 ./ttt
  
-## Author
+## Author 
 Rsja Sherina T
 CSE Dept
